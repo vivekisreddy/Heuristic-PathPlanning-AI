@@ -1,6 +1,7 @@
 # AI Path Planning & Heuristic Optimization
 
-![cover](banner.svg)
+<img width="1123" height="549" alt="Screenshot 2026-04-30 at 3 30 35 PM" src="https://github.com/user-attachments/assets/c82d1ca2-04e0-4360-a05b-bac2b4cb841b" />
+
 
 A Python/C++ implementation of classical AI search algorithms for robot navigation in 2D grid environments, with a focus on comparing optimal and local search strategies under obstacle constraints.
 
